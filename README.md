@@ -1,1 +1,1 @@
-slam_project
+# Simultaneous localization and mapping
